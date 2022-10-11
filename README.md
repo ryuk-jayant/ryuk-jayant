@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning ...Reactjs
+<object data="https://cdn.pixabay.com/photo/2016/08/16/10/18/dragon-1597583_960_720.png" type="image/svg+xml"></object>
 
 <!--
 **ryuk-jayant/ryuk-jayant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
