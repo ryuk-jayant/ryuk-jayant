@@ -3,7 +3,7 @@ My self __JAYANT__ 👦
 - I’m currently learning ...Java🤠.
 - You can grill me on...Javascript/ReactJs.
 - I love Nerding about Stuff so do connect if you are into it 😉.
--⚡ Fun fact: ...I do digital art.
+- ⚡ Fun fact: ...I do digital art.
 <!--
 **ryuk-jayant/ryuk-jayant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
