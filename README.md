@@ -2,10 +2,7 @@
 |---|
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height="200" width="900" alt="animated hello">
 
-<p  align="center">
-<img src="https://github.com/user-attachments/assets/3511100f-136c-4235-a850-f14884aff30a" height="150"></img>
-<img src="https://github.com/user-attachments/assets/98d37eca-800b-456f-a21a-97471e406600" height="150"></img>
-</p>
+
 
 ## 
 - I’m currently learning ...Kotlin🤠.
